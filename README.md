@@ -5,7 +5,7 @@ Welcome to the NLP Deep Learning Project! This repository showcases a powerful N
 
 
 Key Features
-Deep Learning: Implements state-of-the-art deep learning techniques for NLP.
+Deep Learning: Implements state-of-the-art deep learning techniques for NLP./n
 Heavy Dataset Processing: Capable of handling large datasets with ease.
 Commendable Accuracy: Achieves high accuracy through rigorous training and validation.
 Multi-threading Support: Utilizes multi-threading for faster data processing.
