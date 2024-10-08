@@ -1,6 +1,6 @@
-# IAB-Categorisation-using-NLP
+# NLP Project with Deep Learning and Roberta
 
-NLP Project with Deep Learning and Roberta
+
 Welcome to the NLP Deep Learning Project! This repository showcases a powerful Natural Language Processing (NLP) model using deep learning techniques. The project leverages the Roberta architecture to achieve commendable accuracy on a heavy dataset, making it a significant contribution to text classification tasks.
 
 
